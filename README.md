@@ -1,0 +1,1 @@
+A Gym Management System is like a digital assistant for a gym. It helps keep track of members, their subscriptions, and schedules for classes or personal training sessions. It also manages equipment and handles tasks like billing and staff management. Overall, it makes running a gym smoother and more organized.
